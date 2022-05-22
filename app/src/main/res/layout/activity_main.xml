@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/toureiffel"
+    android:background="@drawable/backgroundpidev"
     tools:context=".MainActivity">
 
    <View
        android:id="@+id/view3"
        android:layout_width="0dp"
        android:layout_height="0dp"
-       android:background="#A4000000"
+       android:background="#70000000"
        app:layout_constraintBottom_toBottomOf="parent"
        app:layout_constraintEnd_toEndOf="parent"
        app:layout_constraintStart_toStartOf="parent"
@@ -140,10 +140,10 @@
              android:background="@color/white"
              app:layout_constraintBottom_toBottomOf="@+id/textView2"
              app:layout_constraintEnd_toEndOf="@+id/btnLogin"
-             app:layout_constraintHorizontal_bias="1.0"
+             app:layout_constraintHorizontal_bias="0.0"
              app:layout_constraintStart_toEndOf="@+id/textView2"
              app:layout_constraintTop_toTopOf="@+id/textView2"
-             app:layout_constraintVertical_bias="1.0" />
+             app:layout_constraintVertical_bias="0.388" />
 
          <View
              android:id="@+id/view"
@@ -153,16 +153,16 @@
              android:background="@color/white"
              app:layout_constraintBottom_toBottomOf="@+id/textView2"
              app:layout_constraintEnd_toStartOf="@+id/textView2"
-             app:layout_constraintHorizontal_bias="1.0"
+             app:layout_constraintHorizontal_bias="0.0"
              app:layout_constraintStart_toStartOf="@+id/btnLogin"
              app:layout_constraintTop_toTopOf="@+id/textView2"
-             app:layout_constraintVertical_bias="1.0" />
+             app:layout_constraintVertical_bias="0.277" />
 
          <TextView
              android:id="@+id/textView2"
              android:layout_width="wrap_content"
              android:layout_height="wrap_content"
-             android:layout_marginTop="24dp"
+             android:layout_marginTop="28dp"
              android:text="OR"
              android:textColor="@color/white"
              android:textSize="15sp"
@@ -176,39 +176,23 @@
              android:layout_width="0dp"
              android:layout_height="wrap_content"
              android:layout_marginStart="32dp"
-             android:layout_marginEnd="8dp"
+             android:layout_marginEnd="32dp"
              android:background="@drawable/btn_bg"
              android:drawableStart="@drawable/ic_google"
              android:drawablePadding="10dp"
-             android:paddingLeft="20dp"
-             android:text="Google"
+             android:paddingLeft="60dp"
+             android:text="Sign up with Google"
              android:textAlignment="textStart"
+
              app:layout_constraintBottom_toBottomOf="parent"
-             app:layout_constraintEnd_toStartOf="@+id/btnFacebook"
-             app:layout_constraintHorizontal_bias="0.5"
+             app:layout_constraintEnd_toEndOf="parent"
+             app:layout_constraintHorizontal_bias="1.0"
              app:layout_constraintHorizontal_chainStyle="packed"
              app:layout_constraintStart_toStartOf="parent"
              app:layout_constraintTop_toBottomOf="@+id/view"
-             app:layout_constraintVertical_bias="0.648" />
+             app:layout_constraintVertical_bias="0.379" />
 
-         <Button
-             android:id="@+id/btnFacebook"
-             android:layout_width="0dp"
-             android:layout_height="wrap_content"
-             android:layout_marginStart="8dp"
-             android:layout_marginEnd="32dp"
-             android:background="@drawable/btn_bg"
-             android:drawableStart="@drawable/ic_facebook"
-             android:drawablePadding="10dp"
-             android:paddingLeft="20dp"
-             android:text="Facebook"
-             android:textAlignment="textStart"
-             app:layout_constraintBottom_toBottomOf="parent"
-             app:layout_constraintEnd_toEndOf="parent"
-             app:layout_constraintHorizontal_bias="0.5"
-             app:layout_constraintStart_toEndOf="@+id/btnGoogle"
-             app:layout_constraintTop_toBottomOf="@+id/view2"
-             app:layout_constraintVertical_bias="0.648" />
+
       </androidx.constraintlayout.widget.ConstraintLayout>
    </ScrollView>
 

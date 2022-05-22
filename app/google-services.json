@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66155803051",
+    "project_id": "pidev-f876e",
+    "storage_bucket": "pidev-f876e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66155803051:android:bd75d2f1a68173be74e2ee",
+        "android_client_info": {
+          "package_name": "com.esprit.pidev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66155803051-ca6nbtuk9fo80l8mc4dabeo03gapdlu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFXlabEgafZf2zD465H0sM4yivguF5css"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66155803051-ca6nbtuk9fo80l8mc4dabeo03gapdlu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
