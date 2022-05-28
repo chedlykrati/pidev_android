@@ -4,12 +4,20 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/drawable/ic_add.xml" value="0.2203125" />
+        <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1125" />
+        <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/drawable/ic_baseline_security_24.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/drawable/ic_exit.xml" value="0.2203125" />
         <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/drawable/ic_facebook.xml" value="0.2203125" />
         <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/drawable/input_toureiffel.xml" value="0.2203125" />
+        <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/layout/activity_add.xml" value="0.25" />
         <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/layout/activity_google_sign_in.xml" value="0.1634963768115942" />
-        <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/layout/activity_home.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/layout/activity_update.xml" value="0.25" />
+        <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/layout/my_row.xml" value="0.33" />
+        <entry key="..\:/Users/chedly/AndroidStudioProjects/PIDEV/app/src/main/res/menu/my_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
